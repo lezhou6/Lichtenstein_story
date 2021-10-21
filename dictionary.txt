@@ -1,24 +1,24 @@
-Raesfeld: 
-Flughafen: 
-Berlin: 
-Bratwurst: 
-Hauptstrasse: 
-Brot: 
-Klimaanlage: 
-Rammstein: 
-Porsche: 
-BMW: 
-Biergarten:
-Ratskeller: 
-Dirndel: 
-Lederhose: 
-Schloss: 
-wettbewerbsfaehig: 
-Mehlhase: 
-Gebaeck: 
-Baeckerei: 
-Hund: 
-Döner: 
-Apfelkuchen: 
-Schloss: 
-Eltz:
+Raesfeld:			Raesfeld (it's a place)
+Flughafen:			Airport
+Berlin:				Berlin
+Bratwurst:			Sausage
+Hauptstrasse:		Main road
+Brot:				Bread
+Klimaanlage:		Air conditioning 
+Rammstein:			Rammstein (du hast)
+Porsche:			Porsche
+BMW:				BMW
+Biergarten:			Beer garden
+Ratskeller:			Bar or restaurant
+Dirndel:			Traditional women's dress
+Lederhose:			Traditional men's leather breeches
+Schloss:			Lock
+wettbewerbsfaehig:	Competitiveness
+Mehlhase:			Flour hare (direct translation, it's a surname)
+Gebaeck:			Pastries
+Baeckerei:			Bakery
+Hund:				Dog
+Döner:				Kebab
+Apfelkuchen:		Apple cake
+Schloss:			Lock or Castle
+Eltz:				A german noble family
